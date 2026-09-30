@@ -1,0 +1,13 @@
+# Visual Studio が作るもの（ビルドの結果・個人の設定）
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# CMake でビルドしたときの置き場
+build/
+out/
