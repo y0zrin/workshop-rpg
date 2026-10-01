@@ -38,8 +38,8 @@ Life Manager の「＋ イシュー作成」で、下のテンプレートを選
 
 ## はじめに（自分用を作る）
 
-1. このリポジトリの「Use this template」→「Create a new repository」（名前は workshop-rpg のまま）
-2. Life Manager で「個人で使う」→「もうあるリポジトリを使う」→「リポジトリを追加する」で許可して選び「はじめる」
+1. このリポジトリの「Use this template」→「Create a new repository」。名前に workshop-rpg と入れて「Create repository」
+2. Life Manager で「個人で使う」→「もうあるリポジトリを使う」→「使用するリポジトリを選ぶ」。GitHub で「Only select repositories」→ workshop-rpg →「Install」。アプリに戻って「はじめる」
 3. 作業タブの「GitHub からクローン…」で PC に持ってくる → workshop-rpg.sln を開いて Ctrl + F5
 
 ## 進めかた（1 つの課題）
